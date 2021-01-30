@@ -1,0 +1,10 @@
+E:\app\EntityApp\bin\Debug\EntityApp.exe.config
+E:\app\EntityApp\bin\Debug\EntityApp.exe
+E:\app\EntityApp\bin\Debug\EntityApp.pdb
+E:\app\EntityApp\obj\Debug\EntityApp.csprojAssemblyReference.cache
+E:\app\EntityApp\obj\Debug\EntityApp.frmMain.resources
+E:\app\EntityApp\obj\Debug\EntityApp.Properties.Resources.resources
+E:\app\EntityApp\obj\Debug\EntityApp.csproj.GenerateResource.cache
+E:\app\EntityApp\obj\Debug\EntityApp.csproj.CoreCompileInputs.cache
+E:\app\EntityApp\obj\Debug\EntityApp.exe
+E:\app\EntityApp\obj\Debug\EntityApp.pdb
